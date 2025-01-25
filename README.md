@@ -4,7 +4,7 @@ A responsive web gallery showcasing prominent actors from the Telugu Film Indust
 
 ## Description
 
-TFI-Actors-Gallery is a simple, elegant website that displays information about leading actors from the Telugu film industry. The gallery features a responsive grid layout with hover effects and mobile-friendly design.
+TFI-Actors-Gallery is a simple, elegant website displaying information about the Telugu film industry's leading actors. The gallery features a responsive grid layout with hover effects and a mobile-friendly design.
 
 ## Features
 
@@ -22,3 +22,8 @@ TFI-Actors-Gallery is a simple, elegant website that displays information about 
 - Responsive Design
 - CSS Grid
 - Media Queries
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/sivagithub1532/TFI_Actor_Gallery.git
